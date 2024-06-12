@@ -1,4 +1,4 @@
-module github.com/ohbentos/testeproto
+module git.mt4.com.br/segi9/production/opa
 
 go 1.22.3
 
